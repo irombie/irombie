@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm irem! 👋
 
-<!--
-**irombie/irombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a machine learning engineer with a focus on large language models. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Cohere as a member of technical staff, doing posttraining of LLMs.
+- 🎶 I’m currently working on my first EP, follow me on [Spotify](https://open.spotify.com/artist/3Siu6zpJuUfFdZn6wHF30j?si=UpMH0DecQue-VNAgVoYfLQ) to hear it when it comes out (soon)! 👀
+- 👯 I’m looking to collaborate on some federated learning projects, HMU if interested! 
+- 💬 Ask me about large language models, federated learning, PhD related stuff! 
+- ⚡ Fun fact: I can touch the tip of my nose with my tongue :P 
+
+## You can find me at 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/irem-machine-learning-engineer/)
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/irombie)
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:iremlergun@gmail.com)
+
+Thanks for visiting my profile! Have a great day! 😊
