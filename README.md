@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a machine learning engineer with a focus on la
 - 🎶 I’m currently working on my first EP; follow me on <a href="https://open.spotify.com/artist/3Siu6zpJuUfFdZn6wHF30j?si=UpMH0DecQue-VNAgVoYfLQ" target="_blank">Spotify</a> to hear it when it comes out (soon)! 👀
 - 👯 I’m looking to collaborate on some federated learning projects, HMU if interested! 
 - 💬 Ask me about large language models, federated learning, PhD related stuff! 
-- ⚡ Fun fact: I can touch the tip of my nose with my tongue :P 
 
 ## You can find me at 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/irem-machine-learning-engineer/)
