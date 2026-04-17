@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a machine learning engineer with a focus on la
 ## 🚀 About Me
 
 - 🔭 I’m currently working at Cohere as a member of technical staff, doing posttraining of LLMs.
-- 🎶 I’m currently working on my first EP; follow me on <a href="https://open.spotify.com/artist/3Siu6zpJuUfFdZn6wHF30j?si=UpMH0DecQue-VNAgVoYfLQ" target="_blank">Spotify</a> to hear it when it comes out (soon)! 👀
+- 🎶 I’m a musician! Follow me on <a href="https://open.spotify.com/artist/3Siu6zpJuUfFdZn6wHF30j?si=UpMH0DecQue-VNAgVoYfLQ" target="_blank">Spotify</a>! 👀
 - 👯 I’m looking to collaborate on some federated learning projects, HMU if interested! 
 - 💬 Ask me about large language models, federated learning, PhD related stuff! 
 
